@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saiko/Desktop/MLOPs/mlflow/mlruns/0/f1d93370bd1241bebbfa513ab8da8d03/artifacts
+end_time: 1719947345092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1d93370bd1241bebbfa513ab8da8d03
+run_name: whimsical-frog-620
+run_uuid: f1d93370bd1241bebbfa513ab8da8d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719947258606
+status: 3
+tags: []
+user_id: saiko

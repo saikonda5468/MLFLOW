@@ -3,4 +3,5 @@ numpy
 pandas
 joblib
 scikit-learn
-virtualenv
+virtualenvc
+pyenv-win-3.1.1
