@@ -1,0 +1,6 @@
+mlflow
+numpy
+pandas
+joblib
+scikit-learn
+virtualenv
